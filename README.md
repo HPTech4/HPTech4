@@ -22,7 +22,7 @@
 
 ### 🚀 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,tailwind,nodejs,express,mongodb,bootstrap,git,github,firebase,supabase......" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,bootstrap,git,github,firebase,supabase......" />
 </p>
 
 ### ☁️ Cloud (Learning)
