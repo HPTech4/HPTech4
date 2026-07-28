@@ -46,7 +46,7 @@ Frontend lead — built the User, Admin, and Agent dashboards, integrated all ba
 
 `React` `Framer Motion` `GSAP` `Recharts`
 
-[Live Demo](#) · [Repo](#)
+
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +58,7 @@ Full-stack build for a hackathon — engineered the Gemini prompt system for Nig
 
 `React` `TypeScript` `Tailwind` `Supabase` `Gemini Flash`
 
-[Live Demo](#) · [Repo](#)
+
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ Solo freelance delivery, concept to launch, with EmailJS contact integration and
 
 `HTML` `CSS` `JavaScript` `GSAP`
 
-[Live Demo](#) · [Repo](#)
+
 
 </td>
 <td width="50%" valign="top">
